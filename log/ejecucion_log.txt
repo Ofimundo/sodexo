@@ -1,0 +1,4 @@
+--- Log limpiado por el usuario el 2026-06-15 10:25:40 ---
+2026-06-15 10:29:54 - scheduler - Ejecución automática programada
+2026-06-15 10:29:54 - proceso_completo - Iniciando ejecución
+2026-06-15 10:29:54 - proceso_completo - PDFs encontrados: 0

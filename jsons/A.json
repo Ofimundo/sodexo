@@ -1,0 +1,195 @@
+{
+  "nombre_original": "75746",
+  "folio": "A",
+  "tipo_documento": "Permiso de Trabajo General",
+  "fecha_procesamiento": "2026-06-09 16:00:22",
+  "entities": [
+    {
+      "type": "a_empresa",
+      "confidence": 1.0,
+      "id": "0",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "57",
+                "endIndex": "64"
+              }
+            ]
+          },
+          "type": "nombre_emp",
+          "mentionText": "ABInBev",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7120761,
+                      "y": 0.08953342
+                    },
+                    {
+                      "x": 0.769185,
+                      "y": 0.08953342
+                    },
+                    {
+                      "x": 0.769185,
+                      "y": 0.09794031
+                    },
+                    {
+                      "x": 0.7120761,
+                      "y": 0.09794031
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "1"
+        }
+      ]
+    },
+    {
+      "type": "b_folio",
+      "confidence": 1.0,
+      "id": "2",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "99",
+                "endIndex": "109"
+              }
+            ]
+          },
+          "type": "fecha_emision_folio",
+          "mentionText": "23/10/2020",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6406901,
+                      "y": 0.09962169
+                    },
+                    {
+                      "x": 0.6912552,
+                      "y": 0.09962169
+                    },
+                    {
+                      "x": 0.6912552,
+                      "y": 0.10592686
+                    },
+                    {
+                      "x": 0.6406901,
+                      "y": 0.10592686
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "3",
+          "normalizedValue": {
+            "text": "2020-10-23",
+            "dateValue": {
+              "year": 2020,
+              "month": 10,
+              "day": 23
+            }
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "49",
+                "endIndex": "51"
+              }
+            ]
+          },
+          "type": "id_folio",
+          "mentionText": "93",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.58239144,
+                      "y": 0.07482135
+                    },
+                    {
+                      "x": 0.60023797,
+                      "y": 0.07482135
+                    },
+                    {
+                      "x": 0.60023797,
+                      "y": 0.08406894
+                    },
+                    {
+                      "x": 0.58239144,
+                      "y": 0.08406894
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "4",
+          "normalizedValue": {
+            "text": "93",
+            "integerValue": 93
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "20",
+                "endIndex": "46"
+              }
+            ]
+          },
+          "type": "tipo_folio",
+          "mentionText": "PERMISO DE TRABAJO GENERAL",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.32956573,
+                      "y": 0.06347205
+                    },
+                    {
+                      "x": 0.5490779,
+                      "y": 0.06347205
+                    },
+                    {
+                      "x": 0.5490779,
+                      "y": 0.081546865
+                    },
+                    {
+                      "x": 0.32956573,
+                      "y": 0.081546865
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "5"
+        }
+      ]
+    }
+  ],
+  "texto_completo": "INFORMACION GENERAL\nPERMISO DE TRABAJO GENERAL [#93]\nVPO\nABInBev\nFecha de finalización del trabajo\n23/10/2020\nIN\nFecha de inicio del trabajo:\n23/10/2020\nHoral\n14\nDuración del trabajo:\n0 Dia(s) y 4 Hora(s)\nPersonal de Planta Responsable del Trabajo:\nContratista:\nLuis Zamera\nPROVEEDOR 1 // Ejemplo\nElias Navarro\nElias Navarro\nPersonal de Planta/Empresa Contratista que realiza la tarea\nSupervisor Contratista de contacto durante el trabajo:\nCARACTERISTICAS DEL TRABAJO A REALIZAR\nDescripción del trabajo:\nSector donde se realizara\nUbicación del trabajo a realizar\nCableado de punto de red\nOTRO\nPasillo industrial\nPlan de seguridad disponible (solo para grandes proyectos)\nPELIGROS/ RIESGOS ASOCIADOS CON EL TRABAJO:\n[] Arranque repentine\n11 Interruptores de presión\n[] Liberación no controlada de energia\n[] Trabajo con electricidad de alto voltaje\n11 Trabajos en Alturas menores a [X] Trabajo en Alturas y Cercanos\n2 mtx\n[] Espacio Confinado/ Asfixia\n(1 Sustancias Peligrosas\n[] Exposición a quimicos\nAbismos\n[] Trabajos de demolición / caída de\nescombros\n[] Fuego / perforación murallas de fuego\n[] Radiaciones / Fuentes radiactivas\n[] Exposición a CO2/Nitrógeno [] Estrés por frio / calor\n[Equipos de Izaje (Con Grua)\n[] Equipos de Izaje\nTrabajos menores en Caliente [] Otros:\nPELIGROS/RIESGOS Y PRECAUCIONES A TOMAR\nLas medidas preventivas necesarias para los riesgos mencionados anteriormente:\nEPP...\n[X] Lentes de Seguridad\n11 Máscara facial\n[X] Zapatos de seguridad\n[X] Guantes\n11 Protección auditiva\n11 Protección respiratoria\n[X] Chaleco Reflexivo\n[X] Casco\nFirma\nFirma Y\nTrabajo Critico\nTrabajo No Rutinario\nMARCAR OPCIONES...\n[] Riesgos de explosión (gas/polvo)\n[] Excavaciones\n[] Trabajo en caliente\n[X] Golpes / Cortes\n[] Liberación de liquidos/gases\n11 Trabajo con electricidad en equipos\neléctricos\n[] Amoniaco\n[] Movimiento / reemplazo de\nequipos\n[X] Resbalones / Caidas\n[] Trabajos con Vapor/Calderas\nPROTECCIÓN CAIDAS... PROTECCIÓN E.C.\n[] Barandas\n11 Señalización zona\n[X] Arnes / Cuerdas\n[] Grúa con Jaula\n[) Retractil\n[ ] Andamio\n[ ] Jaula\n[ ] Escalera\n[] Otros:\n[] Arnes / Cuerdas\n[] Retráctil\n[] Escaleras\n[] Otros:\n[ ] Asbestos\n[X] Trabajos Solo\n[] Agentes Biológicos\n1) Exposición a polvos\n[1 Ruido\n[] Atropellamiento\n[] Válvulas de seguridad\n[] Trabajos con Combustibles\nORGANIZACIONAL...\n[] Hojas de seguridad\n[X] Limpieza diaria del área de trabajo\n[X] Demarcación clara del área\n[X] Comunicación con personas que\ntrabajan en la misma área\n[ ] Otros:\nNo Necesario\nONecesario\nO Certificado de Prueba Necesano\n[ ] Otros:\nEs necesario LOTO (bloqueo y etiquetado)\nRequerimiento de seguridad\nEs necesario ER + ARO\n[El área debe estar delimitada para evitar la contaminación del producto debido al polvo, los vapores/ olores, etc\n[X] Charla de 5 minutos a cargo del responsable del \ntrabajo\nTodos los productos quimicos / materiales que se utilizan han sido previamente aprobados por la planta para su uso\n[] \nTodos los productos químicos / materiales están correctamente \netiquetados\n[X] Supervisión \npermanente especializada en Seguridad\n[ ] Otros:\nPROCEDIMIENTOS DE EMERGENCIA\nLas personas que firman el permiso de trabajo, asegúrese de que todos los trabajadores:\nContratistas\nRecibir inducción de seguridad de la planta\nConocer la ubicación del teléfono de emergencia más cercano\nConocer las alarmas de emergencia, procedimientos de evacuación, punto\nde reunión\nRegistro diario de ingreso y salida de planta\nLlevar la tarjeta de identificación\nLISTA DE DOCUMENTOS REQUERIDOS\nContratistas y empleados propios\nMARCAR OPCIONES...\nINDICAR TECNICO/ESPECIALISTA SEGURIDAD...\nMARCAR OPCIONES...\nConocer la ubicación de las duchas de seguridad/estación de lavado de ojos\nComprender el impacto ambiental de trabajo y como prevenirlo\nRealizar limpieza diaria para mantener las áreas de trabajo limpias y ordenadas\nCapacitacion adecuada\nInformar cualquier cambio a las operaciones\n[] PL IT HSMA 14 05 02 Ingreso a EC\n[] Bloqueo y etiquetado SOP/OPL\n[] Procedimiento de emergencia detallado\n[X] PL IT HSMA 14 05 06 PT Altura\nACEPTACION DEL PERMISO\n11 PL IT HSMA 14 05 07 PT Amoniaco\n[] PL IT HSMA 14 05 04 PT Caliente\n[] Inventario de sustancias quimicas\n[] Otros:\n\"Las personas que firman esta sección están de acuerdo con las disposiciones adoptadas en este permiso de trabajo, comprenden sus responsabilidadey y garantizan que van a llevar\na cabo el trabajo de acuerdo a los requisitos mencionados en el permiso de trabajo.\nElias hormo\nFirma Responsable:\nLuis Zamora\nFirma H6MA\nNombre y firma de la persona\n(Contratista/nombre de empleado, responsable de la tarea)\nTegnige Seguread fontratista\nANTONIO GONZALES\nVERIFICACION DEL PERMISO DE TRABAJO\nNombre de persona que realizará la verificación:\nHORARIO 1\nCOMENTARIO\nDiego Farias Castillo\nACCION REQUERIDA\nCIERRE DEL PERMISO DE TRABAJO\nPara ser completado por la persona habilitada junto con la persona que se encargó de la obra:\nEl área ha sido limpiada y todos los productos quimicos / matenales se han eliminado con seguridad de l"
+}

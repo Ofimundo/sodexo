@@ -1,0 +1,2420 @@
+{
+  "nombre_original": "FAC_283",
+  "folio": "97283",
+  "fecha_procesamiento": "2026-06-03 17:24:11",
+  "entities": [
+    {
+      "type": "f_detalles",
+      "confidence": 1.0,
+      "id": "0",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1886",
+                "endIndex": "1894"
+              }
+            ]
+          },
+          "type": "orden_compra_detalle",
+          "mentionText": "32056675",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.3298791,
+                      "y": 0.7041703
+                    },
+                    {
+                      "x": 0.3638457,
+                      "y": 0.7041703
+                    },
+                    {
+                      "x": 0.3638457,
+                      "y": 0.70851433
+                    },
+                    {
+                      "x": 0.3298791,
+                      "y": 0.70851433
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "1"
+        }
+      ]
+    },
+    {
+      "type": "b_folio",
+      "confidence": 1.0,
+      "id": "2",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "456",
+                "endIndex": "475"
+              }
+            ]
+          },
+          "type": "fecha_emision_folio",
+          "mentionText": "21 de Enero de 2026",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.68508923,
+                      "y": 0.20373589
+                    },
+                    {
+                      "x": 0.7708693,
+                      "y": 0.20373589
+                    },
+                    {
+                      "x": 0.7708693,
+                      "y": 0.21025196
+                    },
+                    {
+                      "x": 0.68508923,
+                      "y": 0.21025196
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "3"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "416",
+                "endIndex": "421"
+              }
+            ]
+          },
+          "type": "id_folio",
+          "mentionText": "97283",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7599309,
+                      "y": 0.11859253
+                    },
+                    {
+                      "x": 0.80944157,
+                      "y": 0.11859253
+                    },
+                    {
+                      "x": 0.80944157,
+                      "y": 0.12901825
+                    },
+                    {
+                      "x": 0.7599309,
+                      "y": 0.12901825
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "4",
+          "normalizedValue": {
+            "text": "97283",
+            "integerValue": 97283
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "422",
+                "endIndex": "440"
+              }
+            ]
+          },
+          "type": "nombre_sii_folio",
+          "mentionText": "S.I.I. PROVIDENCIA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6954519,
+                      "y": 0.15812337
+                    },
+                    {
+                      "x": 0.84858954,
+                      "y": 0.15812337
+                    },
+                    {
+                      "x": 0.84858954,
+                      "y": 0.16681147
+                    },
+                    {
+                      "x": 0.6954519,
+                      "y": 0.16681147
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "5"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "392",
+                "endIndex": "411"
+              }
+            ]
+          },
+          "type": "tipo_folio",
+          "mentionText": "FACTURA ELECTRONICA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6614853,
+                      "y": 0.0894874
+                    },
+                    {
+                      "x": 0.8819804,
+                      "y": 0.0894874
+                    },
+                    {
+                      "x": 0.8819804,
+                      "y": 0.10034753
+                    },
+                    {
+                      "x": 0.6614853,
+                      "y": 0.10034753
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "6"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1797",
+                "endIndex": "1802"
+              }
+            ]
+          },
+          "type": "unidad_fomento_folio",
+          "mentionText": "PESOS",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4173863,
+                      "y": 0.6776716
+                    },
+                    {
+                      "x": 0.44847438,
+                      "y": 0.6776716
+                    },
+                    {
+                      "x": 0.44847438,
+                      "y": 0.68418765
+                    },
+                    {
+                      "x": 0.4173863,
+                      "y": 0.68418765
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "type": "g_acuso",
+      "confidence": 1.0,
+      "id": "8",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "2045",
+                "endIndex": "2053"
+              }
+            ]
+          },
+          "type": "fecha_acuso",
+          "mentionText": "22-10-26",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8025331,
+                      "y": 0.7115552
+                    },
+                    {
+                      "x": 0.9050086,
+                      "y": 0.7115552
+                    },
+                    {
+                      "x": 0.9050086,
+                      "y": 0.7258905
+                    },
+                    {
+                      "x": 0.8025331,
+                      "y": 0.7258905
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "9",
+          "normalizedValue": {
+            "text": "2026-10-22",
+            "dateValue": {
+              "year": 2026,
+              "month": 10,
+              "day": 22
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "a_empresa",
+      "confidence": 1.0,
+      "id": "10",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "2403",
+                "endIndex": "2424"
+              }
+            ]
+          },
+          "type": "correo_emp",
+          "mentionText": "AR_CHILE@CONVATEC.COM",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5256189,
+                      "y": 0.81798434
+                    },
+                    {
+                      "x": 0.6505469,
+                      "y": 0.81798434
+                    },
+                    {
+                      "x": 0.6505469,
+                      "y": 0.82493484
+                    },
+                    {
+                      "x": 0.5256189,
+                      "y": 0.82493484
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "11"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "2368",
+                "endIndex": "2377"
+              }
+            ]
+          },
+          "type": "cta_cte_emp",
+          "mentionText": "110844069",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5751295,
+                      "y": 0.80017376
+                    },
+                    {
+                      "x": 0.6183074,
+                      "y": 0.80017376
+                    },
+                    {
+                      "x": 0.6183074,
+                      "y": 0.805821
+                    },
+                    {
+                      "x": 0.5751295,
+                      "y": 0.805821
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "12"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "20",
+                "endIndex": "96"
+              }
+            ]
+          },
+          "type": "descripcion_emp",
+          "mentionText": "COMERCIALIZACIÓN, EXPORTACIÓN, IMPORTACIÓN DE ARTÍCULOS MÉDICOS\nY QUIRÚRGICO",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.07081174,
+                      "y": 0.06472632
+                    },
+                    {
+                      "x": 0.46804836,
+                      "y": 0.06472632
+                    },
+                    {
+                      "x": 0.46804836,
+                      "y": 0.084274545
+                    },
+                    {
+                      "x": 0.07081174,
+                      "y": 0.084274545
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "13"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "97",
+                "endIndex": "147"
+              }
+            ]
+          },
+          "type": "direccion_emp",
+          "mentionText": "AVDA. ANDRES BELLO 2325 OFICINA N° 8 - PROVIDENCIA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.07023604,
+                      "y": 0.094265856
+                    },
+                    {
+                      "x": 0.3621186,
+                      "y": 0.094265856
+                    },
+                    {
+                      "x": 0.3621186,
+                      "y": 0.10034753
+                    },
+                    {
+                      "x": 0.07023604,
+                      "y": 0.10034753
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "14"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "158",
+                "endIndex": "173"
+              }
+            ]
+          },
+          "type": "fono_emp",
+          "mentionText": "(562) 284 05200",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.13356362,
+                      "y": 0.10642919
+                    },
+                    {
+                      "x": 0.21416235,
+                      "y": 0.10642919
+                    },
+                    {
+                      "x": 0.21416235,
+                      "y": 0.11337967
+                    },
+                    {
+                      "x": 0.13356362,
+                      "y": 0.11337967
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "15",
+          "normalizedValue": {
+            "text": "56228405200",
+            "integerValue": 393830352
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "endIndex": "19"
+              }
+            ]
+          },
+          "type": "nombre_emp",
+          "mentionText": "CONVATEC CHILE S.A.",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.07138745,
+                      "y": 0.048653346
+                    },
+                    {
+                      "x": 0.26827863,
+                      "y": 0.048653346
+                    },
+                    {
+                      "x": 0.26827863,
+                      "y": 0.058644656
+                    },
+                    {
+                      "x": 0.07138745,
+                      "y": 0.058644656
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "16"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "379",
+                "endIndex": "391"
+              }
+            ]
+          },
+          "type": "rut_emp",
+          "mentionText": "76.020.266-5",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7472654,
+                      "y": 0.058644656
+                    },
+                    {
+                      "x": 0.85377085,
+                      "y": 0.058644656
+                    },
+                    {
+                      "x": 0.85377085,
+                      "y": 0.06863597
+                    },
+                    {
+                      "x": 0.7472654,
+                      "y": 0.06863597
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "type": "e_total",
+      "confidence": 1.0,
+      "id": "18",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "2435",
+                "endIndex": "2442"
+              }
+            ]
+          },
+          "type": "valor_iva_total",
+          "mentionText": "152:409",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.87161773,
+                      "y": 0.7975673
+                    },
+                    {
+                      "x": 0.90385723,
+                      "y": 0.7975673
+                    },
+                    {
+                      "x": 0.90385723,
+                      "y": 0.8023458
+                    },
+                    {
+                      "x": 0.87161773,
+                      "y": 0.8023458
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "19"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "2342",
+                "endIndex": "2349"
+              }
+            ]
+          },
+          "type": "valor_neto_total",
+          "mentionText": "802.152",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.871042,
+                      "y": 0.7827976
+                    },
+                    {
+                      "x": 0.9032815,
+                      "y": 0.7827976
+                    },
+                    {
+                      "x": 0.9032815,
+                      "y": 0.7888792
+                    },
+                    {
+                      "x": 0.871042,
+                      "y": 0.7888792
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "20"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "2449",
+                "endIndex": "2456"
+              }
+            ]
+          },
+          "type": "valor_total",
+          "mentionText": "954.561",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8704663,
+                      "y": 0.8105995
+                    },
+                    {
+                      "x": 0.9032815,
+                      "y": 0.8105995
+                    },
+                    {
+                      "x": 0.9032815,
+                      "y": 0.81711555
+                    },
+                    {
+                      "x": 0.8704663,
+                      "y": 0.81711555
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "21"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "22",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "594",
+                "endIndex": "595"
+              }
+            ]
+          },
+          "type": "cantidad_prod",
+          "mentionText": "5",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7173287,
+                      "y": 0.2932233
+                    },
+                    {
+                      "x": 0.7225101,
+                      "y": 0.2932233
+                    },
+                    {
+                      "x": 0.7225101,
+                      "y": 0.29756734
+                    },
+                    {
+                      "x": 0.7173287,
+                      "y": 0.29756734
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "23",
+          "normalizedValue": {
+            "text": "5",
+            "integerValue": 5
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "559",
+                "endIndex": "565"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "125371",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09786989,
+                      "y": 0.2936577
+                    },
+                    {
+                      "x": 0.12723085,
+                      "y": 0.2936577
+                    },
+                    {
+                      "x": 0.12723085,
+                      "y": 0.29843614
+                    },
+                    {
+                      "x": 0.09786989,
+                      "y": 0.29843614
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "24"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "566",
+                "endIndex": "593"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "GNL ACTIVE LIFE C/10 PINZAS",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.16983305,
+                      "y": 0.29192007
+                    },
+                    {
+                      "x": 0.30224526,
+                      "y": 0.29192007
+                    },
+                    {
+                      "x": 0.30224526,
+                      "y": 0.29756734
+                    },
+                    {
+                      "x": 0.16983305,
+                      "y": 0.29756734
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "25"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "596",
+                "endIndex": "602"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "26.460",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7720207,
+                      "y": 0.2927889
+                    },
+                    {
+                      "x": 0.80023026,
+                      "y": 0.2927889
+                    },
+                    {
+                      "x": 0.80023026,
+                      "y": 0.29756734
+                    },
+                    {
+                      "x": 0.7720207,
+                      "y": 0.29756734
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "26"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "603",
+                "endIndex": "610"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "132.300",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.85549796,
+                      "y": 0.2927889
+                    },
+                    {
+                      "x": 0.8883132,
+                      "y": 0.2927889
+                    },
+                    {
+                      "x": 0.8883132,
+                      "y": 0.29756734
+                    },
+                    {
+                      "x": 0.85549796,
+                      "y": 0.29756734
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "27"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "28",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "753",
+                "endIndex": "754"
+              }
+            ]
+          },
+          "type": "cantidad_prod",
+          "mentionText": "2",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7173287,
+                      "y": 0.32623807
+                    },
+                    {
+                      "x": 0.72308576,
+                      "y": 0.32623807
+                    },
+                    {
+                      "x": 0.72308576,
+                      "y": 0.3305821
+                    },
+                    {
+                      "x": 0.7173287,
+                      "y": 0.3305821
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "29",
+          "normalizedValue": {
+            "text": "2",
+            "integerValue": 2
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "705",
+                "endIndex": "711"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "416417",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09671848,
+                      "y": 0.32667246
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.32667246
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.3318853
+                    },
+                    {
+                      "x": 0.09671848,
+                      "y": 0.3318853
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "30"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "712",
+                "endIndex": "752"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "NATURA+ PCH DRNWFINVISITAN 45MM(1X10) US",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.16983305,
+                      "y": 0.32450044
+                    },
+                    {
+                      "x": 0.3851468,
+                      "y": 0.32450044
+                    },
+                    {
+                      "x": 0.3851468,
+                      "y": 0.3318853
+                    },
+                    {
+                      "x": 0.16983305,
+                      "y": 0.3318853
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "31"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "755",
+                "endIndex": "761"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "17.170",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7725964,
+                      "y": 0.32536924
+                    },
+                    {
+                      "x": 0.800806,
+                      "y": 0.32536924
+                    },
+                    {
+                      "x": 0.800806,
+                      "y": 0.3310165
+                    },
+                    {
+                      "x": 0.7725964,
+                      "y": 0.3310165
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "32"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "762",
+                "endIndex": "768"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "34.340",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8578008,
+                      "y": 0.32580364
+                    },
+                    {
+                      "x": 0.8854347,
+                      "y": 0.32580364
+                    },
+                    {
+                      "x": 0.8854347,
+                      "y": 0.3310165
+                    },
+                    {
+                      "x": 0.8578008,
+                      "y": 0.3310165
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "33"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "34",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "877",
+                "endIndex": "883"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "416416",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09671848,
+                      "y": 0.36012164
+                    },
+                    {
+                      "x": 0.12838227,
+                      "y": 0.36012164
+                    },
+                    {
+                      "x": 0.12838227,
+                      "y": 0.36490008
+                    },
+                    {
+                      "x": 0.09671848,
+                      "y": 0.36490008
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "35"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "884",
+                "endIndex": "924"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "NATURA+ PCH DRN WFINVISCLR 45MM(1X10) US",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.16983305,
+                      "y": 0.3588184
+                    },
+                    {
+                      "x": 0.38572252,
+                      "y": 0.3588184
+                    },
+                    {
+                      "x": 0.38572252,
+                      "y": 0.36490008
+                    },
+                    {
+                      "x": 0.16983305,
+                      "y": 0.36490008
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "36"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "925",
+                "endIndex": "931"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "17.170",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7725964,
+                      "y": 0.3592528
+                    },
+                    {
+                      "x": 0.80023026,
+                      "y": 0.3592528
+                    },
+                    {
+                      "x": 0.80023026,
+                      "y": 0.36446568
+                    },
+                    {
+                      "x": 0.7725964,
+                      "y": 0.36446568
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "37"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "932",
+                "endIndex": "939"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "34.3401",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8572251,
+                      "y": 0.3588184
+                    },
+                    {
+                      "x": 0.8883132,
+                      "y": 0.3588184
+                    },
+                    {
+                      "x": 0.8883132,
+                      "y": 0.36403129
+                    },
+                    {
+                      "x": 0.8572251,
+                      "y": 0.36403129
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "38",
+          "normalizedValue": {
+            "text": "34.3401",
+            "moneyValue": {
+              "units": "34",
+              "nanos": 340100000
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "39",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1096",
+                "endIndex": "1097"
+              }
+            ]
+          },
+          "type": "cantidad_prod",
+          "mentionText": "3",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.71790445,
+                      "y": 0.39270198
+                    },
+                    {
+                      "x": 0.72308576,
+                      "y": 0.39270198
+                    },
+                    {
+                      "x": 0.72308576,
+                      "y": 0.39704606
+                    },
+                    {
+                      "x": 0.71790445,
+                      "y": 0.39704606
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "40",
+          "normalizedValue": {
+            "text": "3",
+            "integerValue": 3
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1049",
+                "endIndex": "1055"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "125264",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.098445594,
+                      "y": 0.3931364
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.3931364
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.39921808
+                    },
+                    {
+                      "x": 0.098445594,
+                      "y": 0.39921808
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "41"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1056",
+                "endIndex": "1095"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "SURFIT NATURA WFR FLEX 45MM (1X10PK) US",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.16983305,
+                      "y": 0.3913988
+                    },
+                    {
+                      "x": 0.37593552,
+                      "y": 0.3913988
+                    },
+                    {
+                      "x": 0.37593552,
+                      "y": 0.39834926
+                    },
+                    {
+                      "x": 0.16983305,
+                      "y": 0.39834926
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "42"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1098",
+                "endIndex": "1104"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "26.780",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7720207,
+                      "y": 0.39226758
+                    },
+                    {
+                      "x": 0.7996546,
+                      "y": 0.39226758
+                    },
+                    {
+                      "x": 0.7996546,
+                      "y": 0.39791486
+                    },
+                    {
+                      "x": 0.7720207,
+                      "y": 0.39791486
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "43"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1105",
+                "endIndex": "1111"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "80.340",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8578008,
+                      "y": 0.39226758
+                    },
+                    {
+                      "x": 0.8854347,
+                      "y": 0.39226758
+                    },
+                    {
+                      "x": 0.8854347,
+                      "y": 0.39748046
+                    },
+                    {
+                      "x": 0.8578008,
+                      "y": 0.39748046
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "44"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "45",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1267",
+                "endIndex": "1269"
+              }
+            ]
+          },
+          "type": "cantidad_prod",
+          "mentionText": "15",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7156016,
+                      "y": 0.4261512
+                    },
+                    {
+                      "x": 0.7248129,
+                      "y": 0.4261512
+                    },
+                    {
+                      "x": 0.7248129,
+                      "y": 0.43092963
+                    },
+                    {
+                      "x": 0.7156016,
+                      "y": 0.43092963
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "46",
+          "normalizedValue": {
+            "text": "15",
+            "integerValue": 15
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1220",
+                "endIndex": "1226"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "125265",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.098445594,
+                      "y": 0.4261512
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.4261512
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.43223283
+                    },
+                    {
+                      "x": 0.098445594,
+                      "y": 0.43223283
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "47"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1227",
+                "endIndex": "1266"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "SURFIT NATURA WFR FLEX 57MM (1X10PK) US",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.16983305,
+                      "y": 0.42571676
+                    },
+                    {
+                      "x": 0.37593552,
+                      "y": 0.42571676
+                    },
+                    {
+                      "x": 0.37593552,
+                      "y": 0.43223283
+                    },
+                    {
+                      "x": 0.16983305,
+                      "y": 0.43223283
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "48"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1270",
+                "endIndex": "1276"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "26.780",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7720207,
+                      "y": 0.42441356
+                    },
+                    {
+                      "x": 0.80023026,
+                      "y": 0.42441356
+                    },
+                    {
+                      "x": 0.80023026,
+                      "y": 0.43136403
+                    },
+                    {
+                      "x": 0.7720207,
+                      "y": 0.43136403
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "49"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1277",
+                "endIndex": "1284"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "401.700",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8549223,
+                      "y": 0.42528236
+                    },
+                    {
+                      "x": 0.88773745,
+                      "y": 0.42528236
+                    },
+                    {
+                      "x": 0.88773745,
+                      "y": 0.43136403
+                    },
+                    {
+                      "x": 0.8549223,
+                      "y": 0.43136403
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "50"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "51",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1441",
+                "endIndex": "1442"
+              }
+            ]
+          },
+          "type": "cantidad_prod",
+          "mentionText": "2",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7173287,
+                      "y": 0.45960036
+                    },
+                    {
+                      "x": 0.7236615,
+                      "y": 0.45960036
+                    },
+                    {
+                      "x": 0.7236615,
+                      "y": 0.4643788
+                    },
+                    {
+                      "x": 0.7173287,
+                      "y": 0.4643788
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "52",
+          "normalizedValue": {
+            "text": "2",
+            "integerValue": 2
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1393",
+                "endIndex": "1399"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "413186",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09729419,
+                      "y": 0.46046916
+                    },
+                    {
+                      "x": 0.12838227,
+                      "y": 0.46046916
+                    },
+                    {
+                      "x": 0.12838227,
+                      "y": 0.46568203
+                    },
+                    {
+                      "x": 0.09729419,
+                      "y": 0.46568203
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "53"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1400",
+                "endIndex": "1440"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "SURFIT NATURA WFR CVX 41/57MM (1X10PK)US",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.16983305,
+                      "y": 0.45916593
+                    },
+                    {
+                      "x": 0.38284397,
+                      "y": 0.45916593
+                    },
+                    {
+                      "x": 0.38284397,
+                      "y": 0.46568203
+                    },
+                    {
+                      "x": 0.16983305,
+                      "y": 0.46568203
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "54"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1443",
+                "endIndex": "1449"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "32.760",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7725964,
+                      "y": 0.45873153
+                    },
+                    {
+                      "x": 0.8013817,
+                      "y": 0.45873153
+                    },
+                    {
+                      "x": 0.8013817,
+                      "y": 0.4648132
+                    },
+                    {
+                      "x": 0.7725964,
+                      "y": 0.4648132
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "55"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1450",
+                "endIndex": "1456"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "65.520",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8578008,
+                      "y": 0.45916593
+                    },
+                    {
+                      "x": 0.88601035,
+                      "y": 0.45916593
+                    },
+                    {
+                      "x": 0.88601035,
+                      "y": 0.4639444
+                    },
+                    {
+                      "x": 0.8578008,
+                      "y": 0.4639444
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "56"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "57",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1566",
+                "endIndex": "1572"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "423289",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09786989,
+                      "y": 0.49304953
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.49304953
+                    },
+                    {
+                      "x": 0.12780656,
+                      "y": 0.4995656
+                    },
+                    {
+                      "x": 0.09786989,
+                      "y": 0.4995656
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "58"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1573",
+                "endIndex": "1611"
+              }
+            ]
+          },
+          "type": "descripcion_prod",
+          "mentionText": "ESENTA ELIMINADOR ADHESIVO SPRAY 50 ML",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.17040876,
+                      "y": 0.4926151
+                    },
+                    {
+                      "x": 0.3753598,
+                      "y": 0.4926151
+                    },
+                    {
+                      "x": 0.3753598,
+                      "y": 0.49826238
+                    },
+                    {
+                      "x": 0.17040876,
+                      "y": 0.49826238
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "59"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1612",
+                "endIndex": "1619"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "13.403.",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.77317214,
+                      "y": 0.4917463
+                    },
+                    {
+                      "x": 0.8025331,
+                      "y": 0.4917463
+                    },
+                    {
+                      "x": 0.8025331,
+                      "y": 0.49782798
+                    },
+                    {
+                      "x": 0.77317214,
+                      "y": 0.49782798
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "60"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1620",
+                "endIndex": "1626"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "53.612",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8572251,
+                      "y": 0.4921807
+                    },
+                    {
+                      "x": 0.88601035,
+                      "y": 0.4921807
+                    },
+                    {
+                      "x": 0.88601035,
+                      "y": 0.49695918
+                    },
+                    {
+                      "x": 0.8572251,
+                      "y": 0.49695918
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "61"
+        }
+      ]
+    },
+    {
+      "type": "c_destinatario",
+      "confidence": 1.0,
+      "id": "62",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "478",
+                "endIndex": "489"
+              }
+            ]
+          },
+          "type": "comuna_dest",
+          "mentionText": "Puente Alto",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.68393785,
+                      "y": 0.21763684
+                    },
+                    {
+                      "x": 0.7311457,
+                      "y": 0.21763684
+                    },
+                    {
+                      "x": 0.7311457,
+                      "y": 0.22458732
+                    },
+                    {
+                      "x": 0.68393785,
+                      "y": 0.22458732
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "63"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "506",
+                "endIndex": "512"
+              }
+            ]
+          },
+          "type": "cond_vta_dest",
+          "mentionText": "60Dias",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6845135,
+                      "y": 0.2506516
+                    },
+                    {
+                      "x": 0.7138745,
+                      "y": 0.2506516
+                    },
+                    {
+                      "x": 0.7138745,
+                      "y": 0.25716767
+                    },
+                    {
+                      "x": 0.6845135,
+                      "y": 0.25716767
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "64"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "264",
+                "endIndex": "285"
+              }
+            ]
+          },
+          "type": "direccion_dest",
+          "mentionText": "AV CONCHA Y TORO 3459",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.1876799,
+                      "y": 0.21894005
+                    },
+                    {
+                      "x": 0.30166954,
+                      "y": 0.21894005
+                    },
+                    {
+                      "x": 0.30166954,
+                      "y": 0.22415291
+                    },
+                    {
+                      "x": 0.1876799,
+                      "y": 0.22415291
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "65"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "315",
+                "endIndex": "334"
+              }
+            ]
+          },
+          "type": "fecha_vencimiento_dest",
+          "mentionText": "22 de Marzo de 2026",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.1876799,
+                      "y": 0.25238922
+                    },
+                    {
+                      "x": 0.2746114,
+                      "y": 0.25238922
+                    },
+                    {
+                      "x": 0.2746114,
+                      "y": 0.2576021
+                    },
+                    {
+                      "x": 0.1876799,
+                      "y": 0.2576021
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "66"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "249",
+                "endIndex": "263"
+              }
+            ]
+          },
+          "type": "giro_dest",
+          "mentionText": "PUNTO DE VENTA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.18825561,
+                      "y": 0.20330147
+                    },
+                    {
+                      "x": 0.26827863,
+                      "y": 0.20330147
+                    },
+                    {
+                      "x": 0.26827863,
+                      "y": 0.20851433
+                    },
+                    {
+                      "x": 0.18825561,
+                      "y": 0.20851433
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "67"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "214",
+                "endIndex": "246"
+              }
+            ]
+          },
+          "type": "razon_social_dest",
+          "mentionText": "PRODUCTOS DE SALUD ORTOPEDIA SPA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.1871042,
+                      "y": 0.1876629
+                    },
+                    {
+                      "x": 0.37075418,
+                      "y": 0.1876629
+                    },
+                    {
+                      "x": 0.37075418,
+                      "y": 0.19331017
+                    },
+                    {
+                      "x": 0.1871042,
+                      "y": 0.19331017
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "68"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "443",
+                "endIndex": "455"
+              }
+            ]
+          },
+          "type": "rut_dest",
+          "mentionText": "77.776.555-8",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6845135,
+                      "y": 0.18853171
+                    },
+                    {
+                      "x": 0.7386298,
+                      "y": 0.18853171
+                    },
+                    {
+                      "x": 0.7386298,
+                      "y": 0.19374457
+                    },
+                    {
+                      "x": 0.6845135,
+                      "y": 0.19374457
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "69"
+        }
+      ]
+    }
+  ]
+}

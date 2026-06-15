@@ -1,0 +1,1241 @@
+{
+  "nombre_original": "GD___14107",
+  "folio": "14107",
+  "fecha_procesamiento": "2026-06-03 17:24:27",
+  "entities": [
+    {
+      "type": "f_detalles",
+      "confidence": 1.0,
+      "id": "0",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1045",
+                "endIndex": "1062"
+              }
+            ]
+          },
+          "type": "orden_compra_detalle",
+          "mentionText": "1075963-3416-SE26",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.45298165,
+                      "y": 0.7570868
+                    },
+                    {
+                      "x": 0.53669727,
+                      "y": 0.7570868
+                    },
+                    {
+                      "x": 0.53669727,
+                      "y": 0.7623201
+                    },
+                    {
+                      "x": 0.45298165,
+                      "y": 0.7623201
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "1"
+        }
+      ]
+    },
+    {
+      "type": "b_folio",
+      "confidence": 1.0,
+      "id": "2",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "787",
+                "endIndex": "806"
+              }
+            ]
+          },
+          "type": "fecha_emision_folio",
+          "mentionText": "12 de Marzo de 2026",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7075688,
+                      "y": 0.21369386
+                    },
+                    {
+                      "x": 0.79472476,
+                      "y": 0.21369386
+                    },
+                    {
+                      "x": 0.79472476,
+                      "y": 0.21892717
+                    },
+                    {
+                      "x": 0.7075688,
+                      "y": 0.21892717
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "3"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "238",
+                "endIndex": "243"
+              }
+            ]
+          },
+          "type": "id_folio",
+          "mentionText": "14107",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7844037,
+                      "y": 0.12690797
+                    },
+                    {
+                      "x": 0.82568806,
+                      "y": 0.12690797
+                    },
+                    {
+                      "x": 0.82568806,
+                      "y": 0.13519406
+                    },
+                    {
+                      "x": 0.7844037,
+                      "y": 0.13519406
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "4",
+          "normalizedValue": {
+            "text": "14107",
+            "integerValue": 14107
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "737",
+                "endIndex": "755"
+              }
+            ]
+          },
+          "type": "nombre_sii_folio",
+          "mentionText": "S.I.I. PROVIDENCIA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7167431,
+                      "y": 0.17051896
+                    },
+                    {
+                      "x": 0.85665137,
+                      "y": 0.17051896
+                    },
+                    {
+                      "x": 0.85665137,
+                      "y": 0.17924117
+                    },
+                    {
+                      "x": 0.7167431,
+                      "y": 0.17924117
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "5"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "205",
+                "endIndex": "233"
+              }
+            ]
+          },
+          "type": "tipo_folio",
+          "mentionText": "GUIA DE DESPACHO\nELECTRONICA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.7104358,
+                      "y": 0.083733104
+                    },
+                    {
+                      "x": 0.8767202,
+                      "y": 0.083733104
+                    },
+                    {
+                      "x": 0.8767202,
+                      "y": 0.10989969
+                    },
+                    {
+                      "x": 0.7104358,
+                      "y": 0.10989969
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "6"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "657",
+                "endIndex": "662"
+              }
+            ]
+          },
+          "type": "unidad_fomento_folio",
+          "mentionText": "PESOS",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.46215597,
+                      "y": 0.7174008
+                    },
+                    {
+                      "x": 0.49369267,
+                      "y": 0.7174008
+                    },
+                    {
+                      "x": 0.49369267,
+                      "y": 0.7230702
+                    },
+                    {
+                      "x": 0.46215597,
+                      "y": 0.7230702
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "type": "d_productos",
+      "confidence": 1.0,
+      "id": "8",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "860",
+                "endIndex": "862"
+              }
+            ]
+          },
+          "type": "cantidad_prod",
+          "mentionText": "61",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.70298165,
+                      "y": 0.30614915
+                    },
+                    {
+                      "x": 0.71215594,
+                      "y": 0.30614915
+                    },
+                    {
+                      "x": 0.71215594,
+                      "y": 0.31051025
+                    },
+                    {
+                      "x": 0.70298165,
+                      "y": 0.31051025
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "9",
+          "normalizedValue": {
+            "text": "61",
+            "integerValue": 61
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "429",
+                "endIndex": "435"
+              }
+            ]
+          },
+          "type": "codigo_prod",
+          "mentionText": "416416",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.13704129,
+                      "y": 0.30527693
+                    },
+                    {
+                      "x": 0.16743119,
+                      "y": 0.30527693
+                    },
+                    {
+                      "x": 0.16743119,
+                      "y": 0.31094635
+                    },
+                    {
+                      "x": 0.13704129,
+                      "y": 0.31094635
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "10"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "863",
+                "endIndex": "869"
+              }
+            ]
+          },
+          "type": "precio_unitario_prod",
+          "mentionText": "16.350",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.79587156,
+                      "y": 0.30658525
+                    },
+                    {
+                      "x": 0.8233945,
+                      "y": 0.30658525
+                    },
+                    {
+                      "x": 0.8233945,
+                      "y": 0.31138247
+                    },
+                    {
+                      "x": 0.79587156,
+                      "y": 0.31138247
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "11"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "870",
+                "endIndex": "877"
+              }
+            ]
+          },
+          "type": "total_prod",
+          "mentionText": "997.350",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8847477,
+                      "y": 0.30571303
+                    },
+                    {
+                      "x": 0.91857797,
+                      "y": 0.30571303
+                    },
+                    {
+                      "x": 0.91857797,
+                      "y": 0.31181857
+                    },
+                    {
+                      "x": 0.8847477,
+                      "y": 0.31181857
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "12"
+        }
+      ]
+    },
+    {
+      "type": "a_empresa",
+      "confidence": 1.0,
+      "id": "13",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "20",
+                "endIndex": "96"
+              }
+            ]
+          },
+          "type": "descripcion_emp",
+          "mentionText": "COMERCIALIZACIÓN, EXPORTACIÓN, IMPORTACIÓN DE ARTÍCULOS MÉDICOS\nY QUIRÚRGICO",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09575688,
+                      "y": 0.06454427
+                    },
+                    {
+                      "x": 0.49197248,
+                      "y": 0.06454427
+                    },
+                    {
+                      "x": 0.49197248,
+                      "y": 0.083733104
+                    },
+                    {
+                      "x": 0.09575688,
+                      "y": 0.083733104
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "14"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "97",
+                "endIndex": "147"
+              }
+            ]
+          },
+          "type": "direccion_emp",
+          "mentionText": "AVDA. ANDRES BELLO 2325 OFICINA N° 8 - PROVIDENCIA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09575688,
+                      "y": 0.093327515
+                    },
+                    {
+                      "x": 0.3864679,
+                      "y": 0.093327515
+                    },
+                    {
+                      "x": 0.3864679,
+                      "y": 0.1011775
+                    },
+                    {
+                      "x": 0.09575688,
+                      "y": 0.1011775
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "15"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "158",
+                "endIndex": "174"
+              }
+            ]
+          },
+          "type": "fono_emp",
+          "mentionText": "(56 2) 284 05200",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.15768349,
+                      "y": 0.1055386
+                    },
+                    {
+                      "x": 0.23795871,
+                      "y": 0.1055386
+                    },
+                    {
+                      "x": 0.23795871,
+                      "y": 0.11251635
+                    },
+                    {
+                      "x": 0.15768349,
+                      "y": 0.11251635
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "16",
+          "normalizedValue": {
+            "text": "56228405200",
+            "integerValue": 393830352
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "endIndex": "19"
+              }
+            ]
+          },
+          "type": "nombre_emp",
+          "mentionText": "CONVATEC CHILE S.A.",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.09633028,
+                      "y": 0.04797209
+                    },
+                    {
+                      "x": 0.2918578,
+                      "y": 0.04797209
+                    },
+                    {
+                      "x": 0.2918578,
+                      "y": 0.058874838
+                    },
+                    {
+                      "x": 0.09633028,
+                      "y": 0.058874838
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "17"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "192",
+                "endIndex": "204"
+              }
+            ]
+          },
+          "type": "rut_emp",
+          "mentionText": "76.020.266-5",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.771789,
+                      "y": 0.058002617
+                    },
+                    {
+                      "x": 0.86983943,
+                      "y": 0.058002617
+                    },
+                    {
+                      "x": 0.86983943,
+                      "y": 0.06890536
+                    },
+                    {
+                      "x": 0.771789,
+                      "y": 0.06890536
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "18"
+        }
+      ]
+    },
+    {
+      "type": "g_acuso",
+      "confidence": 1.0,
+      "id": "19",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "931",
+                "endIndex": "942"
+              }
+            ]
+          },
+          "type": "fecha_acuso",
+          "mentionText": "17 MAR 2025",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.57683486,
+                      "y": 0.444396
+                    },
+                    {
+                      "x": 0.6909404,
+                      "y": 0.444396
+                    },
+                    {
+                      "x": 0.6909404,
+                      "y": 0.4618404
+                    },
+                    {
+                      "x": 0.57683486,
+                      "y": 0.4618404
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "20",
+          "normalizedValue": {
+            "text": "2025-03-17",
+            "dateValue": {
+              "year": 2025,
+              "month": 3,
+              "day": 17
+            }
+          }
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "964",
+                "endIndex": "981"
+              }
+            ]
+          },
+          "type": "nombre_acuso",
+          "mentionText": "JOSÉ LAGOS CUELLO",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5521789,
+                      "y": 0.6179677
+                    },
+                    {
+                      "x": 0.70298165,
+                      "y": 0.6179677
+                    },
+                    {
+                      "x": 0.70298165,
+                      "y": 0.64064544
+                    },
+                    {
+                      "x": 0.5521789,
+                      "y": 0.64064544
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "21"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "995",
+                "endIndex": "1015"
+              }
+            ]
+          },
+          "type": "recinto_acuso",
+          "mentionText": "ODEGAS CLÍNICAS HJNC",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.559633,
+                      "y": 0.646751
+                    },
+                    {
+                      "x": 0.7144495,
+                      "y": 0.646751
+                    },
+                    {
+                      "x": 0.7144495,
+                      "y": 0.66986483
+                    },
+                    {
+                      "x": 0.559633,
+                      "y": 0.66986483
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "22"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "982",
+                "endIndex": "994"
+              }
+            ]
+          },
+          "type": "rut_acuso",
+          "mentionText": "17.555.667-2",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.58772933,
+                      "y": 0.63628435
+                    },
+                    {
+                      "x": 0.67488533,
+                      "y": 0.63628435
+                    },
+                    {
+                      "x": 0.67488533,
+                      "y": 0.6528565
+                    },
+                    {
+                      "x": 0.58772933,
+                      "y": 0.6528565
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "23"
+        }
+      ]
+    },
+    {
+      "type": "e_total",
+      "confidence": 1.0,
+      "id": "24",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1445",
+                "endIndex": "1452"
+              }
+            ]
+          },
+          "type": "valor_iva_total",
+          "mentionText": "189.497",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8841743,
+                      "y": 0.8146533
+                    },
+                    {
+                      "x": 0.915711,
+                      "y": 0.8146533
+                    },
+                    {
+                      "x": 0.915711,
+                      "y": 0.8194505
+                    },
+                    {
+                      "x": 0.8841743,
+                      "y": 0.8194505
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "25"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1427",
+                "endIndex": "1434"
+              }
+            ]
+          },
+          "type": "valor_neto_total",
+          "mentionText": "997.350",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8830275,
+                      "y": 0.8002617
+                    },
+                    {
+                      "x": 0.9168578,
+                      "y": 0.8002617
+                    },
+                    {
+                      "x": 0.9168578,
+                      "y": 0.8068033
+                    },
+                    {
+                      "x": 0.8830275,
+                      "y": 0.8068033
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "26"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "1459",
+                "endIndex": "1468"
+              }
+            ]
+          },
+          "type": "valor_total",
+          "mentionText": "1.186.847",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.8761468,
+                      "y": 0.8281727
+                    },
+                    {
+                      "x": 0.915711,
+                      "y": 0.8281727
+                    },
+                    {
+                      "x": 0.915711,
+                      "y": 0.8342782
+                    },
+                    {
+                      "x": 0.8761468,
+                      "y": 0.8342782
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "27",
+          "normalizedValue": {
+            "text": "1186847",
+            "moneyValue": {
+              "units": "1186847"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "c_destinatario",
+      "confidence": 1.0,
+      "id": "28",
+      "properties": [
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "912",
+                "endIndex": "930"
+              }
+            ]
+          },
+          "type": "bodega_dest",
+          "mentionText": "BODEGA DE FARMACIA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5108945,
+                      "y": 0.41692105
+                    },
+                    {
+                      "x": 0.7591743,
+                      "y": 0.41692105
+                    },
+                    {
+                      "x": 0.7591743,
+                      "y": 0.43349323
+                    },
+                    {
+                      "x": 0.5108945,
+                      "y": 0.43349323
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "29"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "816",
+                "endIndex": "821"
+              }
+            ]
+          },
+          "type": "comuna_dest",
+          "mentionText": "Arica",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.70584863,
+                      "y": 0.22634104
+                    },
+                    {
+                      "x": 0.72649086,
+                      "y": 0.22634104
+                    },
+                    {
+                      "x": 0.72649086,
+                      "y": 0.23331879
+                    },
+                    {
+                      "x": 0.70584863,
+                      "y": 0.23331879
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "30"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "383",
+                "endIndex": "409"
+              }
+            ]
+          },
+          "type": "cond_vta_dest",
+          "mentionText": "Operación Constituye Venta",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.21100917,
+                      "y": 0.25904927
+                    },
+                    {
+                      "x": 0.32568806,
+                      "y": 0.25904927
+                    },
+                    {
+                      "x": 0.32568806,
+                      "y": 0.26559094
+                    },
+                    {
+                      "x": 0.21100917,
+                      "y": 0.26559094
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "31"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "326",
+                "endIndex": "352"
+              }
+            ]
+          },
+          "type": "direccion_dest",
+          "mentionText": "18 SEPTIEMBRE # 1000 ARICA",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.21158257,
+                      "y": 0.22634104
+                    },
+                    {
+                      "x": 0.3417431,
+                      "y": 0.22634104
+                    },
+                    {
+                      "x": 0.3417431,
+                      "y": 0.23157436
+                    },
+                    {
+                      "x": 0.21158257,
+                      "y": 0.23157436
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "32"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "303",
+                "endIndex": "324"
+              }
+            ]
+          },
+          "type": "giro_dest",
+          "mentionText": "HOSPITALES Y CLINICAS",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.21100917,
+                      "y": 0.21020497
+                    },
+                    {
+                      "x": 0.32052752,
+                      "y": 0.21020497
+                    },
+                    {
+                      "x": 0.32052752,
+                      "y": 0.2158744
+                    },
+                    {
+                      "x": 0.21100917,
+                      "y": 0.2158744
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "33"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "271",
+                "endIndex": "300"
+              }
+            ]
+          },
+          "type": "razon_social_dest",
+          "mentionText": "Hospital Dr. Juan Noé Crevani",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.21100917,
+                      "y": 0.19494112
+                    },
+                    {
+                      "x": 0.33428898,
+                      "y": 0.19494112
+                    },
+                    {
+                      "x": 0.33428898,
+                      "y": 0.20061055
+                    },
+                    {
+                      "x": 0.21100917,
+                      "y": 0.20061055
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "34"
+        },
+        {
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "758",
+                "endIndex": "770"
+              }
+            ]
+          },
+          "type": "rut_dest",
+          "mentionText": "61.606.001-5",
+          "confidence": 1.0,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "boundingPoly": {
+                  "normalizedVertices": [
+                    {
+                      "x": 0.70642203,
+                      "y": 0.19712168
+                    },
+                    {
+                      "x": 0.7608945,
+                      "y": 0.19712168
+                    },
+                    {
+                      "x": 0.7608945,
+                      "y": 0.202355
+                    },
+                    {
+                      "x": 0.70642203,
+                      "y": 0.202355
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "id": "35"
+        }
+      ]
+    }
+  ]
+}
