@@ -1,4 +1,57 @@
---- Log limpiado por el usuario el 2026-06-15 10:25:40 ---
-2026-06-15 10:29:54 - scheduler - Ejecución automática programada
-2026-06-15 10:29:54 - proceso_completo - Iniciando ejecución
-2026-06-15 10:29:54 - proceso_completo - PDFs encontrados: 0
+--- Log limpiado por el usuario el 2026-06-19 13:44:11 ---
+2026-06-19 13:44:13 - convert - Iniciando conversión de 1 archivos
+2026-06-19 13:44:13 - convert - 🏷️ Tipo asignado para 75746.jpg: Documento
+2026-06-19 13:44:13 - convert - ✓ Convertida: 75746.jpg -> Documento/75746.pdf
+2026-06-19 13:44:13 - convert -   📁 Documento: 1 archivos
+2026-06-19 13:46:36 - convert - Iniciando conversión de 1 archivos
+2026-06-19 13:46:36 - convert - 🏷️ Tipo asignado para 75746.jpg: Documento
+2026-06-19 13:46:36 - convert - ✓ Convertida: 75746.jpg -> Documento/75746.pdf
+2026-06-19 13:46:36 - convert -   📁 Documento: 1 archivos
+2026-06-19 13:48:48 - scheduler - Ejecución automática programada
+2026-06-19 13:48:48 - convert - Iniciando conversión de 0 archivos
+2026-06-19 13:55:43 - scheduler - Ejecución automática programada
+2026-06-19 13:55:43 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:00:44 - scheduler - Ejecución automática programada
+2026-06-19 14:00:44 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:05:45 - scheduler - Ejecución automática programada
+2026-06-19 14:05:45 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:10:46 - scheduler - Ejecución automática programada
+2026-06-19 14:10:46 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:15:46 - scheduler - Ejecución automática programada
+2026-06-19 14:15:46 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:20:46 - scheduler - Ejecución automática programada
+2026-06-19 14:20:46 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:25:46 - scheduler - Ejecución automática programada
+2026-06-19 14:25:46 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:30:46 - scheduler - Ejecución automática programada
+2026-06-19 14:30:46 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:35:47 - scheduler - Ejecución automática programada
+2026-06-19 14:35:47 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:40:47 - scheduler - Ejecución automática programada
+2026-06-19 14:40:47 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:45:48 - scheduler - Ejecución automática programada
+2026-06-19 14:45:48 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:50:48 - scheduler - Ejecución automática programada
+2026-06-19 14:50:48 - convert - Iniciando conversión de 0 archivos
+2026-06-19 14:55:48 - scheduler - Ejecución automática programada
+2026-06-19 14:55:48 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:00:48 - scheduler - Ejecución automática programada
+2026-06-19 15:00:48 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:05:49 - scheduler - Ejecución automática programada
+2026-06-19 15:05:49 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:10:49 - scheduler - Ejecución automática programada
+2026-06-19 15:10:49 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:15:49 - scheduler - Ejecución automática programada
+2026-06-19 15:15:49 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:20:49 - scheduler - Ejecución automática programada
+2026-06-19 15:20:49 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:25:49 - scheduler - Ejecución automática programada
+2026-06-19 15:25:49 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:30:49 - scheduler - Ejecución automática programada
+2026-06-19 15:30:49 - convert - Iniciando conversión de 0 archivos
+2026-06-19 15:35:50 - scheduler - Ejecución automática programada
+2026-06-19 15:35:50 - convert - Iniciando conversión de 0 archivos
+2026-06-19 16:08:32 - scheduler - Scheduler iniciado cada 5 minutos
+2026-06-22 14:46:24 - scheduler - Scheduler iniciado cada 5 minutos
+2026-06-22 14:47:38 - scheduler - Scheduler iniciado cada 5 minutos
+2026-06-22 14:49:03 - scheduler - Scheduler iniciado cada 5 minutos

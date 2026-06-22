@@ -14,4 +14,3 @@ watchdog>=3.0.0
 python-docx>=1.0.0
 docx2txt>=0.8
 pytesseract>=0.3.10
-tesseract --version

@@ -15,7 +15,7 @@ class ErrorBoundary extends React.Component {
   }
 
   componentDidCatch(error, errorInfo) {
-    console.error('Error en la aplicación OCR:', error, errorInfo);
+    console.error('Error en la aplicación:', error, errorInfo);
   }
 
   handleRecover = () => {
@@ -31,44 +31,46 @@ class ErrorBoundary extends React.Component {
           alignItems: 'center',
           justifyContent: 'center',
           flexDirection: 'column',
-          background: '#0f172a',
-          color: '#f8fafc',
+          background: '#f8f9fc',
+          color: '#1a1a2e',
           fontFamily: 'Inter, sans-serif',
           padding: '2rem',
           textAlign: 'center',
           gap: '1.5rem'
         }}>
           <div style={{ fontSize: '4rem' }}>⚠️</div>
-          <h2 style={{ fontSize: '1.5rem', color: '#ef4444' }}>
+          <h2 style={{ fontSize: '1.5rem', background: 'linear-gradient(135deg, #2E2096, #E3314F)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
             Ocurrió un error en la interfaz
           </h2>
-          <p style={{ color: '#94a3b8', maxWidth: '500px' }}>
-            La aplicación tuvo un problema al renderizar. Esto puede ocurrir durante el procesamiento.
-            Haz clic en el botón para recuperar sin recargar la página.
+          <p style={{ color: '#6b7280', maxWidth: '500px' }}>
+            La aplicación tuvo un problema al renderizar. Haz clic en el botón para recuperar sin recargar la página.
           </p>
           <pre style={{
-            background: '#1e293b',
+            background: 'white',
             padding: '1rem',
-            borderRadius: '0.5rem',
+            borderRadius: '0.75rem',
             fontSize: '0.75rem',
-            color: '#f59e0b',
+            color: '#E3314F',
             maxWidth: '600px',
             overflowX: 'auto',
-            textAlign: 'left'
+            textAlign: 'left',
+            border: '1px solid rgba(46, 32, 150, 0.1)',
+            boxShadow: '0 2px 8px rgba(46, 32, 150, 0.06)'
           }}>
             {this.state.error?.message || 'Error desconocido'}
           </pre>
           <button
             onClick={this.handleRecover}
             style={{
-              background: '#3b82f6',
+              background: 'linear-gradient(135deg, #2E2096, #E3314F)',
               color: 'white',
               border: 'none',
               padding: '0.75rem 2rem',
-              borderRadius: '0.5rem',
+              borderRadius: '0.75rem',
               fontSize: '1rem',
               cursor: 'pointer',
-              fontWeight: '600'
+              fontWeight: '600',
+              boxShadow: '0 4px 16px rgba(46, 32, 150, 0.25)'
             }}
           >
             🔄 Recuperar aplicación
